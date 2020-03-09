@@ -28,5 +28,71 @@ http://proxyts.habbo.online:8084/hls1/telecinefun.m3u8
 http://proxyts.habbo.online:8084/hls1/telecinepipoca.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE Premium
 http://proxyts.habbo.online:8084/hls1/telecinepremium.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE touch
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",telecine touch
 http://proxyts.habbo.online:8084/hls1/telecinetouch.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Cinemax
+http://proxyts.habbo.online:8084/hls1/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Megapix
+http://proxyts.habbo.online:8084/hls1/megapix.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Paramount
+http://proxyts.habbo.vg:8084/hls1/paramount.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Space
+http://proxyts.habbo.vg:8084/hls1/space.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Studio universal
+http://proxyts.habbo.vg:8084/hls1/studiouniversal.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Tcm
+http://proxyts.habbo.vg:8084/hls1/tcm.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TNT
+http://proxyts.habbo.vg:8084/hls1/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Universal
+http://proxyts.habbo.vg:8084/hls1/universal.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Warner
+http://proxyts.habbo.vg:8084/hls1/warner.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",AEA
+http://proxyts.habbo.vg:8084/hls1/aie.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Axn
+http://proxyts.habbo.vg:8084/hls1/axn.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Sony
+http://proxyts.habbo.vg:8084/hls1/sony.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Comedy central
+http://proxyts.habbo.vg:8084/hls1/comedycentral.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Fox
+http://proxyts.habbo.vg:8084/hls1/fox.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Fox life
+http://proxyts.habbo.vg:8084/hls1/foxlife.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Fox Premium 1
+http://proxyts.habbo.vg:8084/hls1/foxpremium1.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",FOX Premium 2
+http://proxyts.habbo.vg:8084/hls1/foxpremium2.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Fx
+http://proxyts.habbo.vg:8084/hls1/fx.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Id
+http://proxyts.habbo.vg:8084/hls1/investigacaodiscovery.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Syfy
+http://proxyts.habbo.vg:8084/hls1/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TNT
+http://proxyts.habbo.vg:8084/hls1/tntseries.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Combate UFC
+http://proxyts.habbo.vg:8084/hls1/combate.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Combate UFC opcao2
+http://proxyts.habbo.vg:8084/hls1/combate.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Espn Brasil
+http://proxyts.ec.cx:8084/hls1/espnbrasil.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",ESPN extra
+http://proxyts.habbo.vg:8084/hls1/espnextra.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",FOX SporT
+http://proxyts.habbo.vg:8084/hls1/foxsports1.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",FOX SporT 2
+http://proxyts.habbo.vg:8084/hls1/foxsports2.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Premiere clube
+http://proxyts.habbo.vg:8084/hls1/premiereclubes.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Sport TV
+http://proxyts.habbo.vg:8084/hls1/sportv1.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",SporT 2
+http://proxyts.habbo.vg:8084/hls1/sportv2.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Sport TV 3
+http://proxyts.ec.cx:8084/hls1/sportv3.m3u8
