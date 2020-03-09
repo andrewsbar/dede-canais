@@ -1,156 +1,32 @@
 #EXTM3U
 ################################################################################# TV Aberta#################################
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias", gospel HD
-https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist-480.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title="Categorias", Rede TV
-https://stmv3.srvstm.com/tvjsid/tvjsid/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/cx0pdmf7t/Record.png" group-title="Categorias", TV aracati
-https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias", TV record
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8?sd=10&rebase=on
-######################################filmes e series##################################################
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias", a&e
-https://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=94ae0421dfc7b640fc327156ba49fdfc
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",cine max
-https://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=94ae0421dfc7b640fc327156ba49fdfc
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",espn
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",TELECINE TOUCH
-http://proxyts.ec.cx:8082/hls1/telecinetouch.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",TELECINE PREMIUM
-http://proxyts.ec.cx:8082/hls1/telecinepremium.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",TELECINE FUN
-http://proxyts.ec.cx:8082/hls1/telecinefun.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",TELECINE PIPOCA
-http://proxyts.ec.cx:8082/hls1/telecinepipoca.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",TELECINE CULT
-http://proxyts.ec.cx:8082/hls1/telecinecult.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",TELECINE ACTION
-http://proxyts.ec.cx:8082/hls1/telecineaction.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",AMC
-http://proxyts.ec.cx:8082/hls1/amc.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2015/4/programas/130795470.png" group-title="Categorias",HBO
-http://proxyts.ec.cx:8082/hls1/hbo.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Hbo2
-http://proxyts.ec.cx:8082/hls1/hbo2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",HBO family
-http://proxyts.ec.cx:8082/hls1/hbofamily.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",HBO plus
-http://proxyts.ec.cx:8082/hls1/hboplus.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",HBO signature
-http://proxyts.ec.cx:8082/hls1/hbosignature.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Max
-http://proxyts.ec.cx:8082/hls1/max.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Max prime HD
-http://proxyts.ec.cx:8082/hls1/maxprime.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Max up
-http://tvnanet.xyz:25461/live/palmeiras/semmundial/160.m3u8
-##########################esportes########################################################################
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Canal combate UFC
-http://proxyts.ec.cx:8082/hls1/combate.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Espn 2
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Espn Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Espn extra
-http://proxyts.ec.cx:8082/hls1/espnextra.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Fox Sport
-http://proxyts.ec.cx:8082/hls1/espnextra.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Premiere pfc
-http://proxyts.ec.cx:8082/hls1/premiereclubes.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Sport tv
-http://proxyts.ec.cx:8082/hls1/sportv1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Sport TV 2
-http://proxyts.ec.cx:8082/hls1/sportv2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",SporTV 3
-http://proxyts.ec.cx:8082/hls1/sportv3.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Band Sport
-http://proxyts.ec.cx:8082/hls1/bandsports.m3u8?wmsAuthSign=
-#########################documentarios#####################################
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Animal planet
-http://proxyts.ec.cx:8082/hls1/animalplanet.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Discovery CHANNEL
-http://proxyts.ec.cx:8082/hls1/discovery.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Discovery civilization
-http://proxyts.ec.cx:8082/hls1/discoverycivilization.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Discovery theater
-http://proxyts.ec.cx:8082/hls1/discoverytheater.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Discovery science
-http://proxyts.ec.cx:8082/hls1/discoverysience.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Discovery world
-http://proxyts.ec.cx:8082/hls1/discoveryworld.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",History CHANNEL
-http://proxyts.ec.cx:8082/hls1/history.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",H2
-http://proxyts.ec.cx:8082/hls1/history2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",National geographic
-http://proxyts.ec.cx:8082/hls1/natgeo.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Nat geo wild
-http://proxyts.ec.cx:8082/hls1/natgeowild.m3u8?wmsAuthSign=
-################################################variedades#################################################
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Comedy central
-http://proxyts.ec.cx:8082/hls1/comedycentral.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Fox life
-http://proxyts.ec.cx:8082/hls1/foxlife.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Investigação Discovery
-http://proxyts.ec.cx:8082/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Lifetime
-http://proxyts.ec.cx:8082/hls1/lifetime.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Mais Globosat
-http://proxyts.ec.cx:8082/hls1/maisbobosat.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Multishow
-http://proxyts.ec.cx:8082/hls1/multishow.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Tlc
-http://proxyts.ec.cx:8082/hls1/tlc.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Mega Pix
-http://proxyts.ec.cx:8082/hls1/megapix.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Paramount
-http://proxyts.ec.cx:8082/hls1/paramount.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Space
-http://proxyts.ec.cx:8082/hls1/space.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Universal Studio
-http://proxyts.ec.cx:8082/hls1/studiouniversal.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Universal
-http://proxyts.ec.cx:8082/hls1/universal.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Warner
-http://proxyts.ec.cx:8082/hls1/warner.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Axn
-http://proxyts.ec.cx:8082/hls1/axn.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Sony
-http://proxyts.ec.cx:8082/hls1/sony.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Fox
-http://proxyts.ec.cx:8082/hls1/fox.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Fox Premium 1
-http://proxyts.ec.cx:8082/hls1/foxpremium1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Fox Premium 2
-http://proxyts.ec.cx:8082/hls1/foxpremium2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Fx
-http://proxyts.ec.cx:8082/hls1/fx.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Id
-http://proxyts.ec.cx:8082/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Syfy
-http://proxyts.ec.cx:8082/hls1/syfy.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",TNT séries
-http://proxyts.ec.cx:8082/hls1/tntseries.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Viva
-http://proxyts.ec.cx:8082/hls1/viva.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Boomerang
-http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Cartoon network
-http://proxyts.ec.cx:8082/hls1/cartoon.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Discovery kids
-http://proxyts.ec.cx:8082/hls1/discoverykids.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Disney
-http://proxyts.ec.cx:8082/hls1/disney.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Disney júnior
-http://proxyts.ec.cx:8082/hls1/disneyjunior.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Disney XD
-http://proxyts.ec.cx:8082/hls1/disneyxd.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Gloob
-http://proxyts.ec.cx:8082/hls1/gloob.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Nick júnior
-http://proxyts.ec.cx:8082/hls1/nickjr.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Nekelodeon
-http://proxyts.ec.cx:8082/hls1/nick.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://www.desapegagames.com/record/" group-title="Categorias",Toocast
-http://proxyts.ec.cx:8082/hls1/tooncast.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias", AMC 
+http://proxyts.habbo.online:8084/hls1/amc.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",HBO
+http://proxyts.habbo.online:8084/hls1/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",HBO2
+http://proxyts.habbo.online:8084/hls1/hbo2.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Hbo family
+http://proxyts.habbo.online:8084/hls1/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",HBO plus
+http://proxyts.habbo.online:8084/hls1/hboplus.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",HBO signature
+http://proxyts.habbo.online:8084/hls1/hbosignature.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Max
+http://proxyts.habbo.online:8084/hls1/max.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Max prime
+http://proxyts.habbo.online:8084/hls1/maxprime.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Max UP
+http://proxyts.habbo.online:8084/hls1/maxup.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE action
+http://proxyts.habbo.online:8084/hls1/telecineaction.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE CULT
+http://proxyts.habbo.online:8084/hls1/telecinecult.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE Fun
+http://proxyts.habbo.online:8084/hls1/telecinefun.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE pipoca
+http://proxyts.habbo.online:8084/hls1/telecinepipoca.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE Premium
+http://proxyts.habbo.online:8084/hls1/telecinepremium.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",TELECINE touch
+http://proxyts.habbo.online:8084/hls1/telecinetouch.m3u8
