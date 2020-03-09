@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 ################################################################################# TV Aberta#################################
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias", AMC 
 http://proxyts.habbo.online:8084/hls1/amc.m3u8
