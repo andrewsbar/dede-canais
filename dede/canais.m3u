@@ -56,7 +56,7 @@ http://proxyts.habbo.vg:8084/hls1/axn.m3u8
 http://proxyts.habbo.vg:8084/hls1/sony.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Comedy central
 http://proxyts.habbo.vg:8084/hls1/comedycentral.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Fox
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/139.png" group-title="Categorias",Fox
 http://proxyts.habbo.vg:8084/hls1/fox.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Fox life
 http://proxyts.habbo.vg:8084/hls1/foxlife.m3u8
