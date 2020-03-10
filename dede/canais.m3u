@@ -7,7 +7,7 @@ http://proxyts.habbo.online:8084/hls1/amc.m3u8
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/182.png" group-title="Categorias",HBO
 http://proxyts.habbo.online:8084/hls1/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="hhttp://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/183.png" group-title="Categorias",HBO2
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/183.png" group-title="Categorias",HBO2
 http://proxyts.habbo.online:8084/hls1/hbo2.m3u8
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/185.png" group-title="Categorias",Hbo family
@@ -118,10 +118,10 @@ http://proxyts.habbo.vg:8084/hls1/combate.m3u8
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/81.png" group-title="Categorias",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/79.pngg" group-title="Categorias",ESPN 2
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/79.png" group-title="Categorias",ESPN 2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gvt.com.br/midia/tv/_images/gc/canais/espn-brasil-hd%5bweb%5d.png" group-title="Categorias",Espn Brasil
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/80.png" group-title="Categorias",Espn Brasil
 http://proxyts.ec.cx:8084/hls1/espnbrasil.m3u8
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/79.png" group-title="Categorias",ESPN extra
