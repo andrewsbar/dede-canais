@@ -151,77 +151,87 @@ http://proxyts.habbo.vg:8084/hls1/foxlife.m3u8
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/147.png" group-title="Categorias",Life time
 http://proxyts.habbo.vg:8084/hls1/lifetime.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",+Globosat
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/120.png" group-title="Categorias",+Globosat
 http://proxyts.habbo.vg:8084/hls1/maisbobosat.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Multishow
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/130.png" group-title="Categorias",Multishow
 http://proxyts.habbo.vg:8084/hls1/multishow.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Tlc
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/115.png" group-title="Categorias",Tlc
 http://proxyts.habbo.vg:8084/hls1/tlc.m3u8
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/118.png" group-title="Categorias",Viva
 http://proxyts.habbo.vg:8084/hls1/viva.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Boomerang
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/108.png" group-title="Categorias",Boomerang
 http://proxyts.habbo.vg:8084/hls1/boomerang.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Cartoon network
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/110.png" group-title="Categorias",Cartoon network
 http://proxyts.habbo.vg:8084/hls1/cartoon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Discovery kids
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/103.png" group-title="Categorias",Discovery kids
 http://proxyts.habbo.vg:8084/hls1/discoverykids.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gvt.com.br/midia/tv/_images/gc/canais/disney.jpg" group-title="Categorias",Disney
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/105.png" group-title="Categorias",Disney
 http://proxyts.habbo.vg:8084/hls1/disney.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gvt.com.br/midia/tv/_images/gc/canais/logo_disney_junior.jpg" group-title="Categorias",Disney júnior
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/106.png" group-title="Categorias",Disney júnior
 http://proxyts.habbo.vg:8084/hls1/disneyjunior.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Disney XD
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/107.png" group-title="Categorias",Disney XD
 http://proxyts.habbo.vg:8084/hls1/disneyxd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Gloob
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/104.png" group-title="Categorias",Gloob
 http://proxyts.habbo.vg:8084/hls1/gloob.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Nat geo kids
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/339.png" group-title="Categorias",Nat geo kids
 http://proxyts.habbo.vg:8084/hls1/natgeokids.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Nick júnior
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/111.png" group-title="Categorias",Nick júnior
 http://proxyts.habbo.vg:8084/hls1/nickjr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Nickelodeon
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/175.png" group-title="Categorias",Nickelodeon
 http://proxyts.habbo.vg:8084/hls1/nick.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Toocast
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/109.png" group-title="Categorias",Toocast
 http://proxyts.habbo.vg:8084/hls1/tooncast.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Animal planet
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/92.png" group-title="Categorias",Animal planet
 http://proxyts.habbo.vg:8084/hls1/animalplanet.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Discovery CHANNEL
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/91.png" group-title="Categorias",Discovery CHANNEL
 http://proxyts.habbo.vg:8084/hls1/discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Discovery civilization
 http://proxyts.habbo.vg:8084/hls1/discoverycivilization.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Discovery theater
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/95.png" group-title="Categorias",Discovery theater
 http://proxyts.habbo.vg:8084/hls1/discoverytheater.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Discovery syence
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/93.png" group-title="Categorias",Discovery syence
 http://proxyts.habbo.vg:8084/hls1/discoverysience.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Discovery world
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/96.png" group-title="Categorias",Discovery world
 http://proxyts.habbo.vg:8084/hls1/discoveryworld.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",History CHANNEL
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/116.png" group-title="Categorias",History CHANNEL
 http://proxyts.habbo.vg:8084/hls1/history.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",H2
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/117.png" group-title="Categorias",H2
 http://proxyts.habbo.vg:8084/hls1/history2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",National geographic
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/102.png" group-title="Categorias",National geographic
 http://proxyts.habbo.vg:8084/hls1/natgeo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
+#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/101.png" group-title="Categorias",Net geo wild
 http://proxyts.habbo.vg:8084/hls1/natgeowild.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
+
