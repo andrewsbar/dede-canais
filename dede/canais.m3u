@@ -80,7 +80,7 @@ http://proxyts.habbo.vg:8084/hls1/combate.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",ESPN 2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Espn Brasil
+#EXTINF:-1 tvg-logo="https://www.gvt.com.br/midia/tv/_images/gc/canais/espn-brasil-hd%5bweb%5d.png" group-title="Categorias",Espn Brasil
 http://proxyts.ec.cx:8084/hls1/espnbrasil.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",ESPN extra
 http://proxyts.habbo.vg:8084/hls1/espnextra.m3u8
@@ -114,9 +114,9 @@ http://proxyts.habbo.vg:8084/hls1/boomerang.m3u8
 http://proxyts.habbo.vg:8084/hls1/cartoon.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Discovery kids
 http://proxyts.habbo.vg:8084/hls1/discoverykids.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Disney
+#EXTINF:-1 tvg-logo="https://www.gvt.com.br/midia/tv/_images/gc/canais/disney.jpg" group-title="Categorias",Disney
 http://proxyts.habbo.vg:8084/hls1/disney.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Disney júnior
+#EXTINF:-1 tvg-logo="https://www.gvt.com.br/midia/tv/_images/gc/canais/logo_disney_junior.jpg" group-title="Categorias",Disney júnior
 http://proxyts.habbo.vg:8084/hls1/disneyjunior.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Disney XD
 http://proxyts.habbo.vg:8084/hls1/disneyxd.m3u8
