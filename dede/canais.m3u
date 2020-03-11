@@ -1,4 +1,4 @@
-#EXTM3U8
+#EXTM3U
 
 ################################################################################# TV fechada#################################
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/351.png" group-title="Categorias", AMC 
@@ -226,8 +226,9 @@ http://proxyts.habbo.vg:8084/hls1/natgeo.m3u8
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/101.png" group-title="Categorias",Net geo wild
 http://proxyts.habbo.vg:8084/hls1/natgeowild.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",record
 
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
 
