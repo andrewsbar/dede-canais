@@ -56,7 +56,7 @@ http://proxyts.habbo.online:8084/hls1/megapix.m3u8
 http://proxyts.habbo.vg:8084/hls1/paramount.m3u8
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/137.png" group-title="Categorias",Space
-http://proxyts.habbo.vg:8084/hls1/space.m3u8
+http://proxyts.habbo.vg:8084/hls1/space.m3u
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/146.png" group-title="Categorias",Studio universal
 http://proxyts.habbo.vg:8084/hls1/studiouniversal.m3u8
