@@ -76,8 +76,154 @@ http://proxyts.habbo.vg:8084/hls1/warner.m3u8
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/125.png" group-title="Categorias",AEA
 http://proxyts.habbo.vg:8084/hls1/aie.m3u8
 
-#EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/127.png" group-title="Categorias",Axn
+ #EXTINF:0,BR Baby TV 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2336.m3u8 
+
+#EXTINF:0,BR Baby TV 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7485.m3u8 
+
+#EXTINF:0,BR Band 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2335.m3u8 
+#EXTINF:0,BR Band 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13699.m3u8
+
+ #EXTINF:0,BR Band 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7484.m3u8
+
+ #EXTINF:0,BR Band 4k 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26404.m3u8
+
+ #EXTINF:0,BR Band FHD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7188.m3u8
+
+ #EXTINF:0,BR Band FHD H.265 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22274.m3u8
+
+ #EXTINF:0,BR Band HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2334.m3u8
+
+ #EXTINF:0,BR Band HD
+ http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13700.m3u8
+
+ #EXTINF:0,BR Band HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7483.m3u8
+
+
+
+ #EXTINF:0,BR Band News 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2333.m3u8
+
+ #EXTINF:0,BR Band News 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13771.m3u8
+
+ #EXTINF:0,BR Band News 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7482.m3u8
+
+ #EXTINF:0,BR Band News FHD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7150.m3u8
+
+ #EXTINF:0,BR Band News FHD H.265 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22273.m3u8
+
+ #EXTINF:0,BR Band News HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13772.m3u8
+
+ #EXTINF:0,BR Band News HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7481.m3u8
+
+ #EXTINF:0,BR Ben 10 24H 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7598.m3u8
+
+ #EXTINF:0,BR BIS 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2330.m3u8
+
+ #EXTINF:0,BR BIS 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7478.m3u8
+
+ #EXTINF:0,BR BIS FHD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7162.m3u8 
+
+#EXTINF:0,BR BIS FHD H.265 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22271.m3u8
+
+ #EXTINF:0,BR BIS HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2329.m3u8
+
+ #EXTINF:0,BR BIS HD
+ http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7477.m3u8
+
+ #EXTINF:0,BR Black Kamen Rider 24H
+ http://212.8.243.43:8880/live/jefinho2019/jefinho2018/11946.m3u8
+
+ #EXTINF:0,BR Bob Esponja 24H 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7220.m3u8 
+
+
+#EXTINF:0,BR Canal Sony FHD H.265 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22224.m3u8
+
+ #EXTINF:0,BR Canal Sony HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2324.m3u8
+
+ #EXTINF:0,BR Canal Sony HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7470.m3u8 
+
+
+ #EXTINF:0,BR Cartoon Network 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7468.m3u8 
+
+#EXTINF:0,BR Cartoon Network 
+FHD http://212.8.243.43:8880/live/jefinho2019/jefinho2018/26423.m3u8
+
+ #EXTINF:0,BR Caillou 24H 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/3834.m3u8
+
+ #EXTINF:0,BR Canal Brasil 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7473.m3u8
+
+ #EXTINF:0,BR Canal Brasil HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7472.m3u8
+
+ #EXTINF:0,BR Canal do Boi 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/11574.m3u8 
+
+
+ #EXTINF:0,BR Boomerang FHD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7149.m3u8
+
+ #EXTINF:0,BR Boomerang 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7475.m3u8
+
+ #EXTINF:0,BR Boomerang FHD H.265 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22270.m3u8
+
+ #EXTINF:0,BR Boomerang HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7474.m3u8
+
+group-title="Categorias",Axn
 http://proxyts.habbo.vg:8084/hls1/axn.m3u8
+
+#EXTINF:0,BR AXN 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2338.m3u8 
+
+#EXTINF:0,BR AXN 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13697.m3u8 
+
+#EXTINF:0,BR AXN 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7487.m3u8
+
+ #EXTINF:0,BR AXN FHD H.265 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22275.m3u8 
+
+#EXTINF:0,BR AXN HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2337.m3u8
+
+ #EXTINF:0,BR AXN HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/13698.m3u8 
+
+#EXTINF:0,BR AXN HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7486.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/133.png" group-title="Categorias",Sony
 http://proxyts.habbo.vg:8084/hls1/sony.m3u8
@@ -199,6 +345,12 @@ http://proxyts.habbo.vg:8084/hls1/tooncast.m3u8
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/92.png" group-title="Categorias",Animal planet
 http://proxyts.habbo.vg:8084/hls1/animalplanet.m3u8
 
+ #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/92.png" Animal Planet FHD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7151.m3u8
+
+ #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/92.png" Animal Planet FHD H.265 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/22276.m3u8 
+
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/91.png" group-title="Categorias",Discovery CHANNEL
 http://proxyts.habbo.vg:8084/hls1/discovery.m3u8
 
@@ -227,10 +379,20 @@ http://proxyts.habbo.vg:8084/hls1/natgeo.m3u8
 http://proxyts.habbo.vg:8084/hls1/natgeowild.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",record
-
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
+#EXTINF:0,BR Apenas um Show 24H 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/21028.m3u8 
+
+#EXTINF:0,BR Arte 1 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/2339.m3u8 
+
+#EXTINF:0,BR Arte 1 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7489.m3u8 
+
+#EXTINF:0,BR Arte 1 HD 
+http://212.8.243.43:8880/live/jefinho2019/jefinho2018/7488.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.elitehdbr.com/logos/gospelmovie.png" group-title="Categorias",Net geo wild
 
