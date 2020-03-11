@@ -26,7 +26,7 @@ http://proxyts.habbo.online:8084/hls1/max.m3u8
 http://proxyts.habbo.online:8084/hls1/maxprime.m3u8
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/290.png" group-title="Categorias",Max UP
-http://proxyts.habbo.online:8084/hls1/maxup.m3u8
+http://proxyts.habbo.online:8084/hls1/maxup/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://middleware.tubaron.tv.br/stalker_portal/misc/logos/240/148.png" group-title="Categorias",TELECINE action
 http://proxyts.habbo.online:8084/hls1/telecineaction.m3u8
